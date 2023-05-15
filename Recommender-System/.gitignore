@@ -1,0 +1,10 @@
+# Ignore Test images
+*.jpeg
+*.jpg
+*.png
+
+# Ignore Dataset
+fashion-dataset
+uploads
+# Ignore Pickle file
+*.pkl
